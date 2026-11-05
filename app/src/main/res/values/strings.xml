@@ -1,0 +1,3 @@
+<resources>
+    <string name="desc">拦截所有应用的通知权限申请弹窗（系统弹窗 + 应用内催促）</string>
+</resources>
